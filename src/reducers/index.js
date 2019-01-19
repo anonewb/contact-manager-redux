@@ -1,3 +1,5 @@
+// Root reducer
+
 import { combineReducers } from "redux";
 import contactReducer from "./contactReducer";
 
